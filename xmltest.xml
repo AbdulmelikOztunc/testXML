@@ -77,7 +77,8 @@
 <created_at>2025-03-24 22:41:58</created_at>
 <updated_at>2025-03-24 22:41:58</updated_at>
 <status>active</status>
-</product><product id="50">
+</product>
+<product id="50">
 <id>50</id>
 <name>
 <![CDATA[ 5000 mAh Powerbank K25 ]]>
@@ -176,3 +177,4 @@
 <updated_at>2017-09-19 21:51:52</updated_at>
 <status>active</status>
 </product>
+</products>
