@@ -177,24 +177,26 @@
 <updated_at>2017-09-19 21:51:52</updated_at>
 <status>active</status>
 </product>
-<product id="450">
-<id>450</id>
+<product id="422">
+<id>422</id>
 <name>
-<![CDATA[ ROLLER KALEM KL04 ]]>
+<![CDATA[ T130 TERMOS BARDAK 380 ML ]]>
 </name>
 <title/>
 <keywords/>
 <description/>
-<slug>roller-kalem-kl04</slug>
+<slug>t130-termos-bardak-380-ml</slug>
 <category_name>
-<![CDATA[ Promosyon Defter Kalem ]]>
+<![CDATA[ Promosyon Termos ]]>
 </category_name>
-<category_id>45</category_id>
-<category_in>45</category_in>
-<url>https://www.pozitronpromosyon.com/roller-kalem-kl04-423</url>
-<image>https://www.pozitronpromosyon.com/uploads/products/423-image.jpg</image>
+<category_id>27</category_id>
+<category_in>27</category_in>
+<url>https://www.pozitronpromosyon.com/t130-termos-bardak-380-ml-422</url>
+<image>https://www.pozitronpromosyon.com/uploads/products/422-image_1.jpg</image>
 <images>
-<url>https://www.pozitronpromosyon.com/uploads/products/423-image.jpg</url>
+<url>https://www.pozitronpromosyon.com/uploads/products/422-image_1.jpg</url>
+<url>https://www.pozitronpromosyon.com/uploads/products/422-image.jpg</url>
+<url>https://www.pozitronpromosyon.com/uploads/products/422-image_2.jpg</url>
 </images>
 <front_content>
 <![CDATA[ ]]>
@@ -202,7 +204,7 @@
 <content>
 <![CDATA[ ]]>
 </content>
-<price>3.00</price>
+<price>12.50</price>
 <currency>
 <currency_id>8</currency_id>
 <currency_symbol> $</currency_symbol>
@@ -213,7 +215,7 @@
 <created_at>2014-09-02 12:34:57</created_at>
 <updated_at>2018-10-01 12:20:29</updated_at>
 </currency>
-<basic_stock_count>1750</basic_stock_count>
+<basic_stock_count>1000</basic_stock_count>
 <homepage>yes</homepage>
 <discount/>
 <fast_cargo/>
@@ -240,16 +242,16 @@
 <name>
 <![CDATA[ Renk ]]>
 </name>
-<renk>SİYAH</renk>
-<value>SİYAH</value>
-<rgb>#17202A</rgb>
-<unique_id>46c29b577b5532fc13399c9586a3afa5</unique_id>
-<hash>0d49501b33322df7e4dbfdd304655831</hash>
-<stock_count>1750</stock_count>
+<renk>BEYAZ</renk>
+<value>BEYAZ</value>
+<rgb>#FDFEFE</rgb>
+<unique_id>8c9694a45007eef3f6f85878ac8375d5</unique_id>
+<hash>aabfcd121c0a8caa449b79ecfb39062b</hash>
+<stock_count>1000</stock_count>
 </stock>
 </stocks>
-<created_at>2025-02-21 22:35:08</created_at>
-<updated_at>2025-02-21 22:35:08</updated_at>
+<created_at>2025-02-21 22:24:56</created_at>
+<updated_at>2025-02-21 22:24:56</updated_at>
 <status>active</status>
 </product>
 </products>
