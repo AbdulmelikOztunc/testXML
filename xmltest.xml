@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-<product id="430">
-<id>430</id>
+<product id="435">
+<id>435</id>
 <name>
 <![CDATA[ KABLOSUZ SARJ CİHAZI 3 İN 1 (AKILLI TELEFON,SAAT,KULAKLIK) W35 ]]>
 </name>
@@ -78,8 +78,8 @@
 <updated_at>2025-03-24 22:41:58</updated_at>
 <status>active</status>
 </product>
-<product id="52">
-<id>52</id>
+<product id="60">
+<id>60</id>
 <name>
 <![CDATA[ 5000 mAh Powerbank K25 ]]>
 </name>
@@ -177,8 +177,8 @@
 <updated_at>2017-09-19 21:51:52</updated_at>
 <status>active</status>
 </product>
-<product id="424">
-<id>424</id>
+<product id="450">
+<id>450</id>
 <name>
 <![CDATA[ ROLLER KALEM KL04 ]]>
 </name>
