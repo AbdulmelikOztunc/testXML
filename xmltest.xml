@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
 <product id="10099">
-<id>10090</id>
+<id>10099</id>
 <name>
 <![CDATA[ K25 TEST ]]>
 </name>
@@ -100,5 +100,6 @@
 <status>active</status>
 </product>
 </products>
+
 
 
